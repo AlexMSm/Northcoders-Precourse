@@ -5,3 +5,4 @@ Edit 2.
 Another edit on the mainline.
 
 First edit on a secondary branch.
+Second edit on the second branch.
