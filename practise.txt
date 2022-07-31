@@ -9,3 +9,4 @@ First edit on a secondary branch.
 Second edit on the second branch.
 
 Missing greyhounds added here with issue update.
+Fixing the issue automatically.
